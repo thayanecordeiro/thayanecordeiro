@@ -44,6 +44,8 @@ Apaixonada por transformar dados em insights estratégicos por meio de dashboard
 
 Dashboard executivo desenvolvido no Microsoft Power BI para análise histórica das Copas do Mundo FIFA (1930–2022), com foco em indicadores estratégicos, visualizações interativas e exploração de dados para apoio à tomada de decisão.
 
+**Tecnologias:** Power BI • DAX • Power Query • SQL • Modelagem de Dados
+
 ### Principais recursos
 
 ✔ KPIs executivos
@@ -58,11 +60,16 @@ Dashboard executivo desenvolvido no Microsoft Power BI para análise histórica 
 
 ✔ Segmentações por Ano, País, Continente e Sede
 
-**Tecnologias:** Power BI • DAX • Power Query • SQL • Modelagem de Dados
 
-📸 Preview do Dashboard *(em breve)*
+<p align="center">
+  <a href="https://github.com/thayanecordeiro/fifa-world-cup-analytics">
+    <img src="https://raw.githubusercontent.com/thayanecordeiro/fifa-world-cup-analytics/main/images/dashboard-final.png"
+         alt="FIFA World Cup Analytics Dashboard"
+         width="100%">
+  </a>
+</p>
 
-🔗 **Repositório:** será disponibilizado em breve.
+🔗 **Acessar repositório no GitHub** [FIFA World Cup Analytics](https://github.com/thayanecordeiro/fifa-world-cup-analytics)
 ---
 
 
