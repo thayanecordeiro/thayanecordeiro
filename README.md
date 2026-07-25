@@ -38,7 +38,7 @@ Apaixonada por transformar dados em insights estratégicos por meio de dashboard
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
 ## 🏆 FIFA World Cup Analytics
 
